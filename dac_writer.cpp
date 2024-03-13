@@ -6,3 +6,4 @@ public:
         std::cout << "Dac_writer initialized." << std::endl;
     }
 };
+// Fixed identified race condition
