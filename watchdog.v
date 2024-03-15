@@ -11,3 +11,5 @@ endmodule
 // Fixed identified race condition
 
 // Memory layout adjusted for stability
+
+// TODO: Optimize this block in future refactor
